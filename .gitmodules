@@ -1,0 +1,6 @@
+[submodule "LBFGSpp"]
+	path = LBFGSpp
+	url = https://github.com/yixuan/LBFGSpp
+[submodule "nanoflann"]
+	path = nanoflann
+	url = https://github.com/jlblancoc/nanoflann.git
