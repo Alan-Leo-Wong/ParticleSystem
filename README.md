@@ -42,7 +42,7 @@ bash
 ./main -I <input_model_path> -O <output_path.obj> -n <number_of_particles> -m <max_iterations>
 ```
 
-We have provided a bunny model in this repostitory.
+We have provided a bunny model in this repository.
 
 ### Example
 
