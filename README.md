@@ -42,13 +42,15 @@ bash
 ./main -I <input_model_path> -O <output_path.obj> -n <number_of_particles> -m <max_iterations>
 ```
 
+We have provided a bunny model in this repostitory.
+
 ### Example
 
 To run the system with the provided bunny.obj model:
 
 ```
 bash
-./main -I ../models/bunny.obj -O ./output/bunny_remeshed.obj -n 1000 -m 100
+./main -I bunny.obj -O ./output/bunny_remeshed.obj -n 1000 -m 100
 ```
 
 This will distribute 1000 particles over the bunny model and perform up to 100 iterations to optimize their positions.
