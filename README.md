@@ -1,5 +1,7 @@
 # Particle System
 
+![teaser](./assets/teaser.png)
+
 ParticleSystem is a CMake-based project that replicates the isotropic remeshing part of the paper ["Particle-Based Anisotropic Surface Meshing"](https://dl.acm.org/doi/10.1145/2461912.2461946). This implementation focuses on distributing a specified number of particles across the surface of an input mesh and optimizing their positions to achieve uniform distribution. The final high-quality mesh is generated using restricted Delaunay triangulation.
 
 ## Key Features
